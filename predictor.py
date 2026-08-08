@@ -1,4 +1,3 @@
-# %%
 import numpy as np #Working with arrays
 import pandas as pd #working with dataframes and datasets
 import matplotlib.pyplot as plt #visualization
